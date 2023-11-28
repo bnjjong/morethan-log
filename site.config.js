@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Backend dev ops",
     bio: "I have a strong background in DDD and MSA, and I'm constantly open to adopting new skills and methodologies.",
     email: "dogfootmaster@gmail.com",
-    linkedin: "https://www.linkedin.com/in/jongsang-han/",
-    github: "https://github.com/bnjjong",
-    instagram: "secret!",
+    linkedin: "jongsang-han",
+    github: "bnjjong",
+    instagram: "bnjjong",
   },
   projects: [
     {
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "df.henry's blog",
+    title: "<b>df.henry's blog</b>",
     description: "Share my dev knowledge.",
     theme: "dark"
   },
