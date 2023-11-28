@@ -13,13 +13,14 @@ const CONFIG = {
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://morethan-e284f5l2i-bnjjongs-projects.vercel.app/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "df.henry's blog",
+    description: "Share my dev knowledge.",
+    theme: "dark"
   },
 
   // CONFIG configration (required)
